@@ -11,6 +11,10 @@ SAFE stands for Strong And Fearless Equality and it is a network for everyone. P
 
 Every creator that was involved in this project met 1 day before we were given the theme to our ptoject. We managed to have a great communication and to work as a great team. First, all of us talked about the strengths and what we were going to be comfortable working on which resulted in a very good workflow for both backend and frontend developers.
 
+## My Role
+
+I was assigned the frontend of the project and so I was pair-programming with my colleague Bernardo. So our job was to build the Javascript MVC architecture that could be able to consume the API that our backend team had build in Java. We managed to do that very well and everything ran smoothly. 
+
 ## Tech && Methodologies
 
 Java, Javascript, Mac OS, Spring MVC, Javascript MVC, Hibernate, MySQL, Tomcat, Maven, Git, Scrum, HTML5, CSS3, Thymeleaf, IntelliJ, Visual Studio Code.
