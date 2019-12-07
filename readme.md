@@ -19,6 +19,9 @@ I was assigned the frontend of the project and so I was pair-programming with my
 
 Java, Javascript, Mac OS, Spring MVC, Javascript MVC, Hibernate, MySQL, Tomcat, Maven, Git, Scrum, HTML5, CSS3, Thymeleaf, IntelliJ, Visual Studio Code.
 
+## How to use
+In order to connect to our application, use maven $mvn tomcat7:deploy to deploy the project to your local tomcat service. Tomcat should be configured for localhost:8080 - if not, please update the project files. Open the http://localhost:8080/ in any browser and you should be ready to go.
+
 ## Authors
 
 * **André Martins** - [andre-base](https://github.com/andre-base)
