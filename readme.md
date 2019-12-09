@@ -27,7 +27,7 @@ In order to connect to our application, use maven $mvn tomcat7:deploy to deploy 
 * **André Martins** - [andre-base](https://github.com/andre-base)
 * **Bernardo Telo** - [Chickenwithoutwing](https://github.com/Chickenwithoutwing)
 * **João Leandro** - [joaoarthurcl](https://github.com/joaoarthurcl)
-* **Mariana Barcelos** - [rvbrd](https://github.com/MBarcelos)
+* **Mariana Barcelos** - [MBarcelos](https://github.com/MBarcelos)
 * **Ruben Brandão** - [rvbrd](https://github.com/rvbrd)
 
 
